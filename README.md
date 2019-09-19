@@ -1,9 +1,8 @@
-# [[course title]]
+# Data for Data Science
 
 ## Description
 
-Description: This [[# classes/weeks]] course is designed to introduce attendees to [[main objectives]]
-Each [[length of session]] class meeting will include brief tutorials interspersed with challenge exercises, and assumes [[prerequisites]]. At the end of this course, you will be able to [[main deliverables]].
+**Description:** Researchers face a growing data management challenge, starting with data collection and continuing through data analysis, publication, and archival. Potential problems research labs may face include scalability of their data management methods to many and/or very large data files, fully documenting data and its organization, and meeting requirements of grants/publication related to data sharing. This four-week course is designed to introduce attendees to best practices in data organization and management. Each one-hour lecture will include lecture, discussion, and practice exercises. This course assumes no prior training in data science. At the end of this course, you will be able to identify resources at Fred Hutch for data management and apply best practices in data organization to your own research projects.
 
 [[links to other materials that have been adapted in this lesson]]
 
@@ -12,10 +11,10 @@ Software requirements for this course can be found on [fredhutch.io's Software p
 
 ## Schedule
 
-* Week 1: [[title]]
-* Week 2: [[title]]
-* Week 3: [[title]]
-* Week 4: [[title]]
+* Week 1: Data entry and creating spreadsheets
+* Week 2: Organizing data and project files
+* Week 3: Documenting data with metadata
+* Week 4: Data manipulation and reproducibility
 
 
 ## Resources
