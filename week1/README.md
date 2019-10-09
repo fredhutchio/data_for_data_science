@@ -2,7 +2,7 @@
 
 ## Materials
 
-- [`d4ds_week1_slides.pdf`](https://docs.google.com/presentation/d/1-UfX5V56cnpGqMGAy5AJZZ3aR0b0Rf7i0W0rq4BpYT0/edit?usp=sharing)
+- [`Week1_DataEntry.pdf`](Week1_DataEntry.pdf): slides of the presentation, also available in [Google Slides](https://docs.google.com/presentation/d/1-UfX5V56cnpGqMGAy5AJZZ3aR0b0Rf7i0W0rq4BpYT0/edit?usp=sharing)
 - `experimental_data.xlsx`: Microsoft Excel file for the spreadsheet activity
 
 ## Resources
