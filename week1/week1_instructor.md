@@ -8,7 +8,7 @@ Orientation to resources:
 
 Talk through first few slides
 
-Spreadsheet activity
+Spreadsheet activity: 10 minutes, then regroup and discuss findings
 
 Wrapping up:
 - reminder of resources page
