@@ -20,3 +20,10 @@ Software requirements for this course can be found on [fredhutch.io's Software p
 - Each week of class has a directory containing relevant materials, including:
   - `d4ds_weekX_slides.pdf`: PDF of slides for presentation, where X indicates the week of class
   - `weekX_instructor.md`: notes to guide instructor presentation and activity engagement
+
+## Further reading
+
+- [Data Organization in Spreadsheets for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/) Copyright (c) Data Carpentry.
+- [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf) by Hadley Wickham
+- [Spreadsheet Help](http://cdluc3.github.io/spreadsheet-help/) from California Digital Libraries
+- [Primer on Data Management](https://escholarship.org/uc/item/7tf5q7n3) by Strasser et al.
