@@ -1,0 +1,5 @@
+experiment	sex	weight_g	treatment	calibrated
+1	F	NA	control	yes
+2	M	33	control	yes
+4	M	NA	control	yes
+3	M	NA	control	yes

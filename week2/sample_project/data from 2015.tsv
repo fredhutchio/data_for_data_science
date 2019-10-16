@@ -1,0 +1,5 @@
+experiment	sex	weight_g	treatment	calibrated
+1	F	10	control	no
+2	F	33	insulin	yes
+3	M	44	control	yes
+4	M	NA	control	yes
