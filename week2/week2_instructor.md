@@ -1,15 +1,7 @@
-#### [[course and class]] ####
+# Data for Data Science Week 2: Organizing data and project files
 
-#### Objectives ####
+Review of previous weeks, tie in to this week's materials
 
-# review previous week's objectives
-# Today:
-#
+Activities
 
-#### Subheading ####
-
-
-#### Wrapping up ####
-
-# review objectives
-# preview next week's objectives
+Wrapping up: preview next week's material

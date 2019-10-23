@@ -1,15 +1,13 @@
-#### [[course and class]] ####
+# Data for Data Science Week 3: Documenting data with metadata
 
-#### Objectives ####
+Review of previous weeks, tie in to this week's materials
 
-# review previous week's objectives
-# Today:
-#
+Allow 5-7 minutes to work on each activity, then regroup and discuss as class
 
-#### Subheading ####
+Activity (spreadsheet): What would you need to know to use these data?
 
+Activity (GEO): What are the metadata, and where are they found?
 
-#### Wrapping up ####
+Activity (GDC): What data are available from the GDC Data Portal?
 
-# review objectives
-# preview next week's objectives
+Wrapping up: preview next week's material

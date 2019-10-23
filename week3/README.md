@@ -2,7 +2,7 @@
 
 ## Materials
 
-- `d4ds_week3_slides.pdf`
+- `Week3_Metadata.pdf`
 
 ## Resources
 

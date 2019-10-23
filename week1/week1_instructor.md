@@ -6,9 +6,8 @@ Orientation to resources:
 - overview of fredhutch.io
 - sign in for attendance
 
-Talk through first few slides
-
 Spreadsheet activity: 10 minutes, then regroup and discuss findings
 
 Wrapping up:
 - reminder of resources page
+- preview next week's material

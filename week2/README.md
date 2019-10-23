@@ -2,7 +2,7 @@
 
 ## Materials
 
-- `d4ds_week2_slides.pdf`
+- `Week2_OrganizingFiles.pdf`
 
 ## Resources
 
