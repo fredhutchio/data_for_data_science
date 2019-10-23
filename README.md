@@ -18,7 +18,7 @@ Software requirements for this course can be found on [fredhutch.io's Software p
 ## Resources
 
 - Each week of class has a directory containing relevant materials, including:
-  - `d4ds_weekX_slides.pdf`: PDF of slides for presentation, where X indicates the week of class
+  - `WeekX_Topic.pdf`: PDF of slides for presentation, where X indicates the week of class
   - `weekX_instructor.md`: notes to guide instructor presentation and activity engagement
 
 ## Further reading
