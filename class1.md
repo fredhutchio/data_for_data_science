@@ -10,3 +10,6 @@
 - These materials are adapted from content originally appearing in [Data Organization in Spreadsheets for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/) Copyright (c) Data Carpentry.
 - [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf) by Hadley Wickham
 - [Spreadsheet Help](http://cdluc3.github.io/spreadsheet-help/) from California Digital Libraries
+
+
+Spreadsheet activity: 10 minutes, then regroup and discuss findings
